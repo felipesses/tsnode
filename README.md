@@ -1,1 +1,1 @@
-#Project example for study: using NodeJS with Typescript
+Project example for study: using NodeJS with Typescript
